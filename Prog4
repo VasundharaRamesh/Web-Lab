@@ -2,6 +2,10 @@
 	<head>
 		<title>Reversal and Vowels</title>
 		<style>
+		body
+		{
+			background-color:#f2b50c;
+		}
 			input[type=text]
 			{
 				width: 100%;
@@ -11,6 +15,7 @@
 				border: 1px solid #ccc;
 				border-radius: 4px;
 				box-sizing:border-box;
+				text-align: center;
 			}
 			input[type=submit]
 			{
@@ -32,11 +37,12 @@
 			}
 		</style>
 			</head>
-			<body style: "background-color:#f2490c">
+			<body style: "background-color:#e0dcd5">
 			
 			<center>
 			<input type="text" id="str" placeholder="Enter String/Number">
 			<input type="submit" onclick="evalinput()" value="Submit" name="sub">
+			<h2 style="color:##f2490c">RESULT</h2>
 			<div id="result"></div>
 			
 				
