@@ -1,0 +1,62 @@
+students
+{
+	max-width:30%;
+	margin:auto;
+	
+}
+
+students
+{
+	display:block;
+	margin-bottom:10px;
+			
+}
+
+USN
+{
+	display:block;
+	margin-left:12px;
+	
+	color:blue;
+}
+
+NAME
+{
+	display:block;
+	margin-left:14px;
+	
+	color:green;
+}
+
+COLLEGE
+{
+	display:block;
+	margin-left:14px;
+
+	color:red;
+}
+
+BRANCH
+{
+	display:block;
+	margin-left:14px;
+
+	color:brown;
+}
+
+YEAR
+{
+	display:block;
+	margin-left:14px;
+	
+	color:orange;
+}
+
+E-MAIL
+{
+	display:block;
+	margin-left:14px;
+	
+	color:pink;
+	
+}
